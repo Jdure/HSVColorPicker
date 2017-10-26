@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/action_about"
+          android:id="@+id/action_about"
+          android:icon="@android:drawable/ic_dialog_info"
+          android:showAsAction="always"
+        />
+
+    <!-- Colours, should always be in the overflow -->
+    <item
+        android:id="@+id/action_black"
+        android:showAsAction="never"
+        android:title="@string/black" />
+
+    <item
+        android:id="@+id/action_red"
+        android:showAsAction="never"
+        android:title="@string/red" />
+    <item
+        android:id="@+id/action_lime"
+        android:showAsAction="never"
+        android:title="@string/lime" />
+
+    <item
+        android:id="@+id/action_blue"
+        android:showAsAction="never"
+        android:title="@string/blue" />
+
+    <item
+        android:id="@+id/action_yellow"
+        android:showAsAction="never"
+        android:title="@string/yellow" />
+
+    <item
+        android:id="@+id/action_cyan"
+        android:showAsAction="never"
+        android:title="@string/cyan" />
+
+    <item
+        android:id="@+id/action_magenta"
+        android:showAsAction="never"
+        android:title="@string/magenta" />
+
+    <item
+        android:id="@+id/action_silver"
+        android:showAsAction="never"
+        android:title="@string/silver" />
+
+    <item
+        android:id="@+id/action_gray"
+        android:showAsAction="never"
+        android:title="@string/gray" />
+
+    <item
+        android:id="@+id/action_maroon"
+        android:showAsAction="never"
+        android:title="@string/maroon" />
+
+    <item
+        android:id="@+id/action_olive"
+        android:showAsAction="never"
+        android:title="@string/olive" />
+
+    <item
+        android:id="@+id/action_green"
+        android:showAsAction="never"
+        android:title="@string/green" />
+
+    <item
+        android:id="@+id/action_purple"
+        android:showAsAction="never"
+        android:title="@string/purple" />
+
+    <item
+        android:id="@+id/action_teal"
+        android:showAsAction="never"
+        android:title="@string/teal" />
+
+    <item
+        android:id="@+id/action_navy"
+        android:showAsAction="never"
+        android:title="@string/navy" />
+
+</menu>
